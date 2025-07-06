@@ -27,7 +27,7 @@ A modern, responsive recipe explorer built using **React JS**, **TailwindCSS**, 
 
 #### 🌐 Live Demo
 
-👉 [View Live App](https://your-live-demo-link.netlify.app)  
+👉 [View Live App](https://tastybookrecipeapp.netlify.app/)  
 
 ---
 
