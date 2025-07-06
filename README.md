@@ -1,12 +1,33 @@
-# React + Vite
+# 🍽️ RecipeApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive recipe explorer built using **React JS**, **TailwindCSS**, and [TheMealDB API](https://www.themealdb.com/api.php). Search, filter, view detailed recipes, and save your favorites — all with a beautiful dark mode and mobile-first design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔍 Search for recipes by name or keyword
+- 🧂 Filter by **category** and **ingredient**
+- 🍴 View full recipe details, ingredients, and tutorial video
+- 🌙 Light/Dark Mode toggle (persists using localStorage)
+- ❤️ Favorite recipes and access them anytime
+- 📱 Mobile-first responsive layout with smooth UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+### 🧱 Tech Stack
+
+- **Frontend**: React JS + TailwindCSS
+- **Routing**: React Router
+- **HTTP Requests**: Axios / Fetch API
+- **State Management**: React Hooks
+- **API**: [TheMealDB](https://www.themealdb.com/api.php)
+
+---
+
+#### 🌐 Live Demo
+
+👉 [View Live App](https://your-live-demo-link.netlify.app)  
+
+---
+
